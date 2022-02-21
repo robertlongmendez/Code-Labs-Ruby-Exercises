@@ -11,12 +11,25 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Constant Variable**</em> - data values that stay the same everytime a program is executed <br>
 <em>**Method**</em> - procedure associated with a class <br>
 <em>**IRB**</em> - Interactive Ruby, It's a Ruby shell or REPL and stands for read-eval-print-loop <br>
-<em>**Operators**</em> - a symbol that tells the compiler to perform a specifif operation <br>
-<em>**Class**</em> - INSERT DEFINITION HERE <br>
-<em>**Gem**</em> - INSERT DEFINITION HERE <br>
+<em>**Operators**</em> - a symbol that tells the compiler to perform a specific operation <br>
+<em>**Class**</em> - a template definition of the method and variable in a particular kind of object<br>
+<em>**Gem**</em> - code, documentation and gemspec <br>
 
 ## Part 2
-
+<em>**Conditional**</em> - these statements are the way that computers make decisions. if a condition is true do this else do this <br>
+<em>**The difference between if, elseif and else.**</em> - INSERT ANSWER HERE <br>
+<em>**What are Case/When statements? </em> - INSERT DEfINNITION HERE <br>
+<em>**What is a data structure? </em> - INSERT ANSWER HERE <rb>
+<em>**Arrays**</em> - INSERT DEFINITION HERE <br>
+<em>**What is meant by 'built-in' methods?**</em> - INSERT DEFINITION HERE <br>
+<em>**Loops**</em> - INSERT DEFINITION HERE <br>
+<em>**What are infinite loops?**</em> - INSERT DEFINITION HERE <br>
+<em>**What is meant by 'built-in' methods?**</em> - INSERT ANSWER HERE <br>
 ## Part 3
-
+<em>**What is Object Oriented Programming?**</em> - INSERT DEFINITION HERE <br>
+<em>**Class inheritance**</em> - INSERT DEfINNITION HERE <br>
+<em>**What are getters and setters?**</em> - INSERT ANSWER HERE <br>
+<em>**Difference between class variables and instance variables and class attributes?**</em> - INSERT ANSWER HERE <br>
+<em>**What does self signify in a class?**</em> - INSERT ANSWER HERE <br>
+<em>**Modules</em> - INSERT DEfINNITION HERE <br>
 ## Part 4
