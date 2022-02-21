@@ -22,8 +22,8 @@ Here is a list of ruby terms and definitions used in class.
 <em>**What is a data structure? </em> - INSERT ANSWER HERE <rb>
 <em>**Arrays**</em> - INSERT DEFINITION HERE <br>
 <em>**What is meant by 'built-in' methods?**</em> - INSERT DEFINITION HERE <br>
-<em>**Loops**</em> - INSERT DEFINITION HERE <br>
-<em>**What are infinite loops?**</em> - INSERT DEFINITION HERE <br>
+<em>**Loops**</em> - a way to execute a code block repeatedly as long as the conditions are met <br>
+<em>**What are infinite loops?**</em> - if the condition is always met then the loop will be infinite and will crash the program <br>
 <em>**What is meant by 'built-in' methods?**</em> - INSERT ANSWER HERE <br>
 ## Part 3
 <em>**What is Object Oriented Programming?**</em> - INSERT DEFINITION HERE <br>
