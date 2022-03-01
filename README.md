@@ -33,3 +33,6 @@ Here is a list of ruby terms and definitions used in class.
 <em>**What does self signify in a class?**</em> - INSERT ANSWER HERE <br>
 <em>**Modules</em> - INSERT DEfINNITION HERE <br>
 ## Part 4
+<em>**Bundler**<em> - Provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed <br>
+<em>**Gemfile**<em> - a file we create which is used for describing gem dependencies for Ruby Programs <br>
+<em>**Bcrypt**<em> - hash algorithm for hashing passwords, created by The OpenBSD project <br>
