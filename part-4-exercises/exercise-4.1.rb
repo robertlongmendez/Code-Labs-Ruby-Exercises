@@ -41,11 +41,12 @@ class User
       all.each do | element |
        if element.username == username && element.password == password
         element.logged_in = true
-        isLoggedIn = true
+        user = element
+        break
        end
         # user[:password] = create_hash_digest(user[:password])
       end
-      all
+      user
     end
 end
 
@@ -69,7 +70,9 @@ while (isLoggedIn == false)
 
       if user
         puts "Login Successful"
-        
+        isLoggedIn = true
+      else
+        puts "User not found, try again loser"
       end
     # Attempts
     tries += 1
